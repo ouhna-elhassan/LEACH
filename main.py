@@ -74,7 +74,7 @@ def show_nodes(ch):
 ######################################################################################## 
 
 #les paramétres
-N, r, P, En_max, En_current = 5, 3, 4, 4, 2
+N, r, P, En_max, En_current = 0, 0, 0, 0, 0
 
 ###############################les entrées et les buttons ###############################
 Label(root, text="N : ").grid(row=0, column=0, )
